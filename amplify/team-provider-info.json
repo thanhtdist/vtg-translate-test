@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livetranslation-dev-165918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::098305555551:role/amplify-livetranslation-dev-165918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::098305555551:role/amplify-livetranslation-dev-165918-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-livetranslation-dev-165918-deployment",
+      "UnauthRoleName": "amplify-livetranslation-dev-165918-unauthRole",
+      "StackName": "amplify-livetranslation-dev-165918",
+      "StackId": "arn:aws:cloudformation:us-west-2:098305555551:stack/amplify-livetranslation-dev-165918/fca66910-a814-11ed-bcd3-066e5ec9f357",
+      "AmplifyAppId": "d3bh9hnvtzal3g"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3bh9hnvtzal3g",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "livetranslationd26d8d07": {}
+      }
+    }
+  }
+}
